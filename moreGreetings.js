@@ -7,3 +7,4 @@ console.log("Not enough");
 console.log("Researching");
 console.log("Solid");
 console.log("New video");
+console.log("Last video");
