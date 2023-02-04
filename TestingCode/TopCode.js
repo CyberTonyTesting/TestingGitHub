@@ -6,3 +6,4 @@ console.log("Test5");
 //Next Testing phase
 
 console.log("Test");
+console.log("Test2");
