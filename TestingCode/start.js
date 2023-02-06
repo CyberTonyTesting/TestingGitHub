@@ -9,3 +9,5 @@ console.log("Python");
 console.log("Python");
 console.log("Python");
 console.log("Python");
+//Test
+console.log("Test");
