@@ -10,3 +10,5 @@ def calFunction():
     print(x+y)
 
 calFunction()
+calFunction();
+
