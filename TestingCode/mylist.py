@@ -16,3 +16,4 @@ print(names + salary);
 //Test
 
 print(names + salary);
+print(names + salary);
