@@ -1,0 +1,5 @@
+print("Puss")
+print("Book")
+print("notebook")
+print("staff")
+print("employee")
