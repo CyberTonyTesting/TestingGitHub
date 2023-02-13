@@ -8,3 +8,5 @@ print("Guard")
 print("The Talk")
 print("The Song")
 print("Leave")
+print("steps")
+
