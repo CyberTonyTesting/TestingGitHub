@@ -1,6 +1,6 @@
 print("Sir")
 print("Madam")
-
+print("Pure Methods")
 print("Madam")
 print("MacBook Pro")
 print("MacBook Mini")
