@@ -1,1 +1,2 @@
 print("Sir")
+print("Madam")
