@@ -1,1 +1,2 @@
-print("pane1")
+print("plane1")
+print("plane2")
