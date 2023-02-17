@@ -19,3 +19,5 @@ print("plane17")
 print("plane18")
 print("plane19")
 print("plane20")
+
+print("invest")
