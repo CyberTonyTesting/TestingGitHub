@@ -112,3 +112,5 @@ console.log("Picard");
 console.log("Picard");
 console.log("Picard");
 console.log("Picard");
+console.log("Riker");
+console.log("Riker");
